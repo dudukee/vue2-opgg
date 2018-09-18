@@ -1,0 +1,33 @@
+{
+    "passive": {
+        "description": "<style>\nbody { background-color: #000; font-family: -apple-system; font-family: '-apple-system','HelveticaNeue'; }\n* { font-size: 11px; }\n</style><font color='#ffc659'><b>赐死剑气</b></font>\n<br><font color='#fff'>亚托克斯的下次攻击造成额外伤害并减少目标身上的治疗和护盾效果。</font>",
+        "videoUrl": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_P1.webm",
+        "imageUrl": "//opgg-static.akamaized.net/images/lol/passive/Aatrox_Passive.AatroxUpdate.png"
+    },
+    "spells": [
+        {
+            "description": "<head>\n<style>\nbody { background-color: #000; font-family: -apple-system; font-family: '-apple-system','HelveticaNeue'; }\n* { font-size: 11px; }\n</style><font color='#ffc659'><b>暗裔利刃</b></font>\n<br><font color='#999'>冷却时间（秒）: 16/15/14/13/12</font>\n<br><font color='#999'>法力值消耗: 无消耗</font>\n<br><font color='#999'>範圍: 25000</font>\n\n<br><br><font color='#fff'>亚托克斯向下猛砸他的巨剑，并造成<physicalDamage>?物理伤害</physicalDamage>。【暗裔利刃】可以再施放2次，每次都会提升伤害。<br /><br />每次挥击都能用剑锋来命中敌人，以造成短暂的击飞效果和更多伤害。</font><br><br><span style=\"font-size:11px; color: #ffc659;\">\"?\" indicates data not available from Riot API. You can confirm undisclosed values in League of Legends game client</span>",
+            "videoUrl": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_Q1.webm",
+            "imageUrl": "//opgg-static.akamaized.net/images/lol/spell/AatroxQ.png"
+        },
+        {
+            "description": "<head>\n<style>\nbody { background-color: #000; font-family: -apple-system; font-family: '-apple-system','HelveticaNeue'; }\n* { font-size: 11px; }\n</style><font color='#ffc659'><b>恶火束链</b></font>\n<br><font color='#999'>冷却时间（秒）: 18/17/16/15/14</font>\n<br><font color='#999'>法力值消耗: 无消耗</font>\n<br><font color='#999'>範圍: 825</font>\n\n<br><br><font color='#fff'>亚托克斯猛砸地面，对命中的第一个敌人造成<physicalDamage>?物理伤害</physicalDamage>和?%减速效果，持续?秒。<br /><br />英雄或大型野怪需要在?秒内快速离开被影响的区域，否则就会被拖拽到中心并再次受到伤害。</font><br><br><span style=\"font-size:11px; color: #ffc659;\">\"?\" indicates data not available from Riot API. You can confirm undisclosed values in League of Legends game client</span>",
+            "videoUrl": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_W1.webm",
+            "imageUrl": "//opgg-static.akamaized.net/images/lol/spell/AatroxW.png"
+        },
+        {
+            "description": "<head>\n<style>\nbody { background-color: #000; font-family: -apple-system; font-family: '-apple-system','HelveticaNeue'; }\n* { font-size: 11px; }\n</style><font color='#ffc659'><b>暗影冲决</b></font>\n<br><font color='#999'>冷却时间（秒）: 3/2.5/2/1.5/1</font>\n<br><font color='#999'>法力值消耗: 无消耗</font>\n<br><font color='#999'>範圍: 25000</font>\n\n<br><br><font color='#fff'><spellPassive>被动：</spellPassive>亚托克斯获得治疗效果，相当于他造成的?%物理伤害。<br /><br /><spellActive>主动：</spellActive>亚托克斯突进，并获得攻击力。2层充能。</font><br><br><span style=\"font-size:11px; color: #ffc659;\">\"?\" indicates data not available from Riot API. You can confirm undisclosed values in League of Legends game client</span>",
+            "videoUrl": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_E1.webm",
+            "imageUrl": "//opgg-static.akamaized.net/images/lol/spell/AatroxE.png"
+        },
+        {
+            "description": "<head>\n<style>\nbody { background-color: #000; font-family: -apple-system; font-family: '-apple-system','HelveticaNeue'; }\n* { font-size: 11px; }\n</style><font color='#ffc659'><b>大灭</b></font>\n<br><font color='#999'>冷却时间（秒）: 160/140/120</font>\n<br><font color='#999'>法力值消耗: 无消耗</font>\n<br><font color='#999'>範圍: 25000</font>\n\n<br><br><font color='#fff'>亚托克斯现出他的恶魔形态，持续?秒，恐惧附近的小兵并获得：<span class=\"size4\"><br /><br /></span><li>在最初的1秒、以及脱离与英雄或防御塔的战斗时，提升移动速度。<span class=\"size4\"><br /><br /></span>提升攻击力。<span class=\"size4\"><br /><br /></span>同时出现一口鲜血魔井来持续储存生命值，并允许他在承受致命伤害时<u>复活</u>。</li></font><br><br><span style=\"font-size:11px; color: #ffc659;\">\"?\" indicates data not available from Riot API. You can confirm undisclosed values in League of Legends game client</span>",
+            "videoUrl": "https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0266/ability_0266_R1.webm",
+            "imageUrl": "//opgg-static.akamaized.net/images/lol/spell/AatroxR.png"
+        }
+    ],
+    "banRate": {
+        "string": "31st",
+        "value": "7.75%"
+    }
+}

@@ -1,0 +1,70 @@
+* {
+    font-size: 14px;
+}
+
+.flex {
+    display: box;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -webkit-box-lines: multiple;
+    -moz-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.flex-nowrap {
+    -webkit-flex-wrap: nowrap;
+    /*-webkit-box-lines:multiple;*/
+    -moz-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+}
+
+.flex-shrink {
+    -webkit-box-flex: 0;
+    -moz-flex-shrink: 0;
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+}
+
+.flex-center {
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    -ms-align-items: center;
+    -o-align-items: center;
+    align-items: center;
+}
+
+.flex-content {
+    -webkit-box-pack: space-between;
+    -webkit-justify-content: space-between;
+    -moz-justify-content: space-between;
+    -ms-justify-content: space-between;
+    -o-justify-content: space-between;
+    justify-content: space-between;
+}
+
+.flex-content-center {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -moz-justify-content: center;
+    -ms-justify-content: center;
+    -o-justify-content: center;
+    justify-content: center;
+}
+
+.flex-content-space-around {
+    -webkit-box-pack: space-around;
+    -webkit-justify-content: space-around;
+    -moz-justify-content: space-around;
+    -ms-justify-content: space-around;
+    -o-justify-content: space-around;
+    justify-content: space-around;
+}
+
+.page-header-main {
+    margin-top: 50px;
+}

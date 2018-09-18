@@ -1,0 +1,566 @@
+[
+    {
+        "cnName":"德玛西亚之力",
+        "pyName":"de ma xi ya zhi li"
+    },
+    {
+        "cnName":"正义巨像",
+        "pyName":"zheng yi ju xiang"
+    },
+    {
+        "cnName":"海洋之灾",
+        "pyName":"hai yang zhi zai"
+    },
+    {
+        "cnName":"酒桶",
+        "pyName":"jiu tong"
+    },
+    {
+        "cnName":"法外狂徒",
+        "pyName":"fa wai kuang tu"
+    },
+    {
+        "cnName":"迷失之牙",
+        "pyName":"mi shi zhi ya"
+    },
+    {
+        "cnName":"唤潮鲛姬",
+        "pyName":"huan chao jiao ji"
+    },
+    {
+        "cnName":"沙漠死神",
+        "pyName":"sha mo si shen"
+    },
+    {
+        "cnName":"深海泰坦",
+        "pyName":"shen hai tai tan"
+    },
+    {
+        "cnName":"永恒梦魇",
+        "pyName":"yong heng meng yan"
+    },
+    {
+        "cnName":"雪原双子",
+        "pyName":"xue yuan shuang zi"
+    },
+    {
+        "cnName":"狂野女猎手",
+        "pyName":"kuang ye nv lie shou"
+    },
+    {
+        "cnName":"诺克萨斯之手",
+        "pyName":"nuo ke sa si zhi shou"
+    },
+    {
+        "cnName":"皎月女神",
+        "pyName":"jiao yue nv shen"
+    },
+    {
+        "cnName":"荣耀行刑官",
+        "pyName":"rong yao xing xing guan"
+    },
+    {
+        "cnName":"符文法师",
+        "pyName":"fu wen fa shi"
+    },
+    {
+        "cnName":"幻翎",
+        "pyName":"huan ling"
+    },
+    {
+        "cnName":"披甲龙龟",
+        "pyName":"pi jia long gui"
+    },
+    {
+        "cnName":"光辉女郎",
+        "pyName":"guang hui nv lang"
+    },
+    {
+        "cnName":"机械公敌",
+        "pyName":"ji xie gong di"
+    },
+    {
+        "cnName":"荒漠屠夫",
+        "pyName":"huang mo tu fu"
+    },
+    {
+        "cnName":"曙光女神",
+        "pyName":"shu guang nv shen"
+    },
+    {
+        "cnName":"虚空遁地兽",
+        "pyName":"xu kong dun di shou"
+    },
+    {
+        "cnName":"傲之追猎者",
+        "pyName":"ao zhi zhui lie zhe"
+    },
+    {
+        "cnName":"圣枪游侠",
+        "pyName":"sheng qiang you xia"
+    },
+    {
+        "cnName":"仙灵女巫",
+        "pyName":"xian ling nv wu"
+    },
+    {
+        "cnName":"诡术妖姬",
+        "pyName":"gui zhu yao ji"
+    },
+    {
+        "cnName":"盲僧",
+        "pyName":"mang seng"
+    },
+    {
+        "cnName":"放逐之刃",
+        "pyName":"fang zhu zhi ren"
+    },
+    {
+        "cnName":"冰霜女巫",
+        "pyName":"bing shuang nv wu"
+    },
+    {
+        "cnName":"无极剑圣",
+        "pyName":"wu ji jian sheng"
+    },
+    {
+        "cnName":"扭曲树精",
+        "pyName":"niu qu shu jing"
+    },
+    {
+        "cnName":"虚空先知",
+        "pyName":"xu kong xian zhi"
+    },
+    {
+        "cnName":"熔岩巨兽",
+        "pyName":"rong yan ju shou"
+    },
+    {
+        "cnName":"铁铠冥魂",
+        "pyName":"tie kai ming hun"
+    },
+    {
+        "cnName":"堕落天使",
+        "pyName":"duo luo tian shi"
+    },
+    {
+        "cnName":"祖安狂人",
+        "pyName":"zu an kuang ren"
+    },
+    {
+        "cnName":"赏金猎人",
+        "pyName":"shang jin lie ren"
+    },
+    {
+        "cnName":"星界游神",
+        "pyName":"xing jie you shen"
+    },
+    {
+        "cnName":"惩戒之箭",
+        "pyName":"cheng jie zhi jian"
+    },
+    {
+        "cnName":"皮城执法官",
+        "pyName":"pi cheng zhi fa guan"
+    },
+    {
+        "cnName":"邪恶小法师",
+        "pyName":"xie e xiao fa shi"
+    },
+    {
+        "cnName":"暗夜猎手",
+        "pyName":"an ye lie shou"
+    },
+    {
+        "cnName":"虚空之眼",
+        "pyName":"xu kong zhi yan"
+    },
+    {
+        "cnName":"雷霆咆哮",
+        "pyName":"lei ting pao xiao"
+    },
+    {
+        "cnName":"弗雷尔卓德之心",
+        "pyName":"fu lei er zhuo de zhi xin"
+    },
+    {
+        "cnName":"复仇焰魂",
+        "pyName":"fu chou yan hun"
+    },
+    {
+        "cnName":"猩红收割者",
+        "pyName":"xing hong shou ge zhe"
+    },
+    {
+        "cnName":"蒸汽机器人",
+        "pyName":"zheng qi ji qi ren"
+    },
+    {
+        "cnName":"机械先驱",
+        "pyName":"ji xie xian qu"
+    },
+    {
+        "cnName":"圣锤之毅",
+        "pyName":"sheng chui zhi yi"
+    },
+    {
+        "cnName":"亡灵战神",
+        "pyName":"wang ling zhan shen"
+    },
+    {
+        "cnName":"恶魔小丑",
+        "pyName":"e mo xiao chou"
+    },
+    {
+        "cnName":"北地之怒",
+        "pyName":"bei di zhi nu"
+    },
+    {
+        "cnName":"琴瑟仙女",
+        "pyName":"qin se xian nv"
+    },
+    {
+        "cnName":"众星之子",
+        "pyName":"zhong xing zhi zi"
+    },
+    {
+        "cnName":"暮光之眼",
+        "pyName":"mu guang zhi yan"
+    },
+    {
+        "cnName":"龙血武姬",
+        "pyName":"long xue wu ji"
+    },
+    {
+        "cnName":"诺克萨斯统领",
+        "pyName":"nuo ke sa si tong ling"
+    },
+    {
+        "cnName":"水晶先锋",
+        "pyName":"shui jing xian feng"
+    },
+    {
+        "cnName":"战争女神",
+        "pyName":"zhan zheng nv shen"
+    },
+    {
+        "cnName":"德邦总管",
+        "pyName":"de bang zong guan"
+    },
+    {
+        "cnName":"暗黑元首",
+        "pyName":"an hei yuan shou"
+    },
+    {
+        "cnName":"炼金术士",
+        "pyName":"lian jin shu shi"
+    },
+    {
+        "cnName":"魂锁典狱长",
+        "pyName":"hun suo dian yu zhang"
+    },
+    {
+        "cnName":"九尾妖狐",
+        "pyName":"jiu wei yao hu"
+    },
+    {
+        "cnName":"殇之木乃伊",
+        "pyName":"shang zhi mu nai yi"
+    },
+    {
+        "cnName":"铸星龙王",
+        "pyName":"zhu xing long wang"
+    },
+    {
+        "cnName":"翠神",
+        "pyName":"cui shen"
+    },
+    {
+        "cnName":"沙漠皇帝",
+        "pyName":"sha mo huang di"
+    },
+    {
+        "cnName":"离群之刺",
+        "pyName":"li qun zhi ci"
+    },
+    {
+        "cnName":"暗裔剑魔",
+        "pyName":"an yi jian mo"
+    },
+    {
+        "cnName":"牛头酋长",
+        "pyName":"niu tou qiu zhang"
+    },
+    {
+        "cnName":"黑暗之女",
+        "pyName":"hei an zhi nv"
+    },
+    {
+        "cnName":"冰晶凤凰",
+        "pyName":"bing jing feng huang"
+    },
+    {
+        "cnName":"寒冰射手",
+        "pyName":"han bing she shou"
+    },
+    {
+        "cnName":"疾风剑豪",
+        "pyName":"ji feng jian hao"
+    },
+    {
+        "cnName":"时间刺客",
+        "pyName":"shi jian ci ke"
+    },
+    {
+        "cnName":"蜘蛛女皇",
+        "pyName":"zhi zhu nv huang"
+    },
+    {
+        "cnName":"齐天大圣",
+        "pyName":"qi tian da sheng"
+    },
+    {
+        "cnName":"山隐之焰",
+        "pyName":"shan yin zhi yan"
+    },
+    {
+        "cnName":"发条魔灵",
+        "pyName":"fa tiao mo ling"
+    },
+    {
+        "cnName":"狂战士",
+        "pyName":"kuang zhan shi"
+    },
+    {
+        "cnName":"牧魂人",
+        "pyName":"mu hun ren"
+    },
+    {
+        "cnName":"兽灵行者",
+        "pyName":"shou ling xing zhe"
+    },
+    {
+        "cnName":"无畏战车",
+        "pyName":"wu wei zhan che"
+    },
+    {
+        "cnName":"祖安怒兽",
+        "pyName":"zu an nu shou"
+    },
+    {
+        "cnName":"刀锋舞者",
+        "pyName":"dao feng wu zhe"
+    },
+    {
+        "cnName":"痛苦之拥",
+        "pyName":"tong ku zhi yong"
+    },
+    {
+        "cnName":"探险家",
+        "pyName":"tan xian jia"
+    },
+    {
+        "cnName":"海兽祭司",
+        "pyName":"hai shou ji si"
+    },
+    {
+        "cnName":"德玛西亚皇子",
+        "pyName":"de ma xi ya huang zi"
+    },
+    {
+        "cnName":"逆羽",
+        "pyName":"ni yu"
+    },
+    {
+        "cnName":"荆棘之兴",
+        "pyName":"jing ji zhi xing"
+    },
+    {
+        "cnName":"生化魔人",
+        "pyName":"sheng hua mo ren"
+    },
+    {
+        "cnName":"风暴之怒",
+        "pyName":"feng bao zhi nu"
+    },
+    {
+        "cnName":"武器大师",
+        "pyName":"wu qi da shi"
+    },
+    {
+        "cnName":"影流之主",
+        "pyName":"ying liu zhi zhu"
+    },
+    {
+        "cnName":"远古巫灵",
+        "pyName":"yuan gu wu ling"
+    },
+    {
+        "cnName":"未来守护者",
+        "pyName":"wei lai shou hu zhe"
+    },
+    {
+        "cnName":"暮光星灵",
+        "pyName":"mu guang xing ling"
+    },
+    {
+        "cnName":"爆破鬼才",
+        "pyName":"bao po gui cai"
+    },
+    {
+        "cnName":"戏命师",
+        "pyName":"xi ming shi"
+    },
+    {
+        "cnName":"时光守护者",
+        "pyName":"shi guang shou hu zhe"
+    },
+    {
+        "cnName":"暴走萝莉",
+        "pyName":"bao zou luo li"
+    },
+    {
+        "cnName":"虚空恐惧",
+        "pyName":"xu kong kong ju"
+    },
+    {
+        "cnName":"天启者",
+        "pyName":"tian qi zhe"
+    },
+    {
+        "cnName":"青钢影",
+        "pyName":"qing gang ying"
+    },
+    {
+        "cnName":"虚空行者",
+        "pyName":"xu kong xing zhe"
+    },
+    {
+        "cnName":"死亡颂唱者",
+        "pyName":"si wang song chang zhe"
+    },
+    {
+        "cnName":"魔蛇之拥",
+        "pyName":"mo she zhi yong"
+    },
+    {
+        "cnName":"虚空之女",
+        "pyName":"xu kong zhi nv"
+    },
+    {
+        "cnName":"虚空掠夺者",
+        "pyName":"xu kong lve duo zhe"
+    },
+    {
+        "cnName":"不祥之刃",
+        "pyName":"bu xiang zhi ren"
+    },
+    {
+        "cnName":"复仇之矛",
+        "pyName":"fu chou zhi mao"
+    },
+    {
+        "cnName":"狂暴之心",
+        "pyName":"kuang bao zhi xin"
+    },
+    {
+        "cnName":"皮城女警",
+        "pyName":"pi cheng nv jing"
+    },
+    {
+        "cnName":"影流之镰",
+        "pyName":"ying liu zhi lian"
+    },
+    {
+        "cnName":"审判天使",
+        "pyName":"shen pan tian shi"
+    },
+    {
+        "cnName":"深渊巨口",
+        "pyName":"shen yuan ju kou"
+    },
+    {
+        "cnName":"英勇投弹手",
+        "pyName":"ying yong tou dan shou"
+    },
+    {
+        "cnName":"德玛西亚之翼",
+        "pyName":"de ma xi ya zhi yi"
+    },
+    {
+        "cnName":"暴怒骑士",
+        "pyName":"bao nu qi shi"
+    },
+    {
+        "cnName":"永猎双子",
+        "pyName":"yong lie shuang zi"
+    },
+    {
+        "cnName":"瓦洛兰之盾",
+        "pyName":"wa luo lan zhi dun"
+    },
+    {
+        "cnName":"刀锋之影",
+        "pyName":"dao feng zhi ying"
+    },
+    {
+        "cnName":"岩雀",
+        "pyName":"yan que"
+    },
+    {
+        "cnName":"河流之王",
+        "pyName":"he liu zhi wang"
+    },
+    {
+        "cnName":"巨魔之王",
+        "pyName":"ju mo zhi wang"
+    },
+    {
+        "cnName":"麦林炮手",
+        "pyName":"mai lin pao shou"
+    },
+    {
+        "cnName":"蛮族之王",
+        "pyName":"man zu zhi wang"
+    },
+    {
+        "cnName":"卡牌大师",
+        "pyName":"ka pai da shi"
+    },
+    {
+        "cnName":"瘟疫之源",
+        "pyName":"wen yi zhi yuan"
+    },
+    {
+        "cnName":"迅捷斥候",
+        "pyName":"xun jie chi hou"
+    },
+    {
+        "cnName":"血港鬼影",
+        "pyName":"xue gang gui ying"
+    },
+    {
+        "cnName":"战争之王",
+        "pyName":"zhan zheng zhi wang"
+    },
+    {
+        "cnName":"末日使者",
+        "pyName":"mo ri shi zhe"
+    },
+    {
+        "cnName":"无双剑姬",
+        "pyName":"wu shuang jian ji"
+    },
+    {
+        "cnName":"潮汐海灵",
+        "pyName":"chao xi hai ling"
+    },
+    {
+        "cnName":"大发明家",
+        "pyName":"da fa ming jia"
+    },
+    {
+        "cnName":"战争之影",
+        "pyName":"zhan zheng zhi ying"
+    }
+]
