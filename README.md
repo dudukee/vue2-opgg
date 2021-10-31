@@ -1,3 +1,7 @@
+# UPDATE
+
+本项目现处于停止维护状态：国服塞拉斯上线之后未更新过英雄数据。
+
 # vue2-opgg
 
 > A Vue.js project
